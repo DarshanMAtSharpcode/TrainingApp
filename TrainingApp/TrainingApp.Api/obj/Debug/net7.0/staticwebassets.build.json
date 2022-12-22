@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5R2nPZEdNnqf9Ttrf+cfCCvXFgGaYJU1rG0HRdehe24=",
+  "Source": "TrainingApp.Api",
+  "BasePath": "_content/TrainingApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

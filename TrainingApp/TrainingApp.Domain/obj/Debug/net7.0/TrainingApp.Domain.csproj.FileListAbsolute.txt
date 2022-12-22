@@ -1,0 +1,12 @@
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Domain\bin\Debug\net7.0\TrainingApp.Domain.deps.json
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Domain\bin\Debug\net7.0\TrainingApp.Domain.dll
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Domain\bin\Debug\net7.0\TrainingApp.Domain.pdb
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\net7.0\TrainingApp.Domain.csproj.AssemblyReference.cache
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\net7.0\TrainingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\net7.0\TrainingApp.Domain.AssemblyInfoInputs.cache
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\net7.0\TrainingApp.Domain.AssemblyInfo.cs
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\net7.0\TrainingApp.Domain.csproj.CoreCompileInputs.cache
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\net7.0\TrainingApp.Domain.dll
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\net7.0\refint\TrainingApp.Domain.dll
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\net7.0\TrainingApp.Domain.pdb
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\net7.0\ref\TrainingApp.Domain.dll

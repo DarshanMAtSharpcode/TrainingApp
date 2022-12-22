@@ -1,0 +1,17 @@
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\obj\Debug\net7.0\TrainingApp.Data.csproj.AssemblyReference.cache
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\obj\Debug\net7.0\TrainingApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\obj\Debug\net7.0\TrainingApp.Data.AssemblyInfoInputs.cache
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\obj\Debug\net7.0\TrainingApp.Data.AssemblyInfo.cs
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\obj\Debug\net7.0\TrainingApp.Data.csproj.CoreCompileInputs.cache
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\bin\Debug\net7.0\TrainingApp.Data.deps.json
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\bin\Debug\net7.0\TrainingApp.Data.dll
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\bin\Debug\net7.0\TrainingApp.Data.pdb
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\bin\Debug\net7.0\TrainingApp.Domain.dll
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\bin\Debug\net7.0\TrainingApp.EF.dll
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\bin\Debug\net7.0\TrainingApp.Domain.pdb
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\bin\Debug\net7.0\TrainingApp.EF.pdb
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\obj\Debug\net7.0\TrainingApp.Data.csproj.CopyComplete
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\obj\Debug\net7.0\TrainingApp.Data.dll
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\obj\Debug\net7.0\refint\TrainingApp.Data.dll
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\obj\Debug\net7.0\TrainingApp.Data.pdb
+D:\CodeSandbox\ReveationLabs\TrainingApp\TrainingApp\TrainingApp.Data\obj\Debug\net7.0\ref\TrainingApp.Data.dll

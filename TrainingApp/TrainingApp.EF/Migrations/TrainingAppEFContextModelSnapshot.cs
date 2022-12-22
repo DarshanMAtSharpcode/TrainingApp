@@ -35,7 +35,7 @@ namespace TrainingApp.EF.Migrations
                     b.Property<DateTime>("DueDateTime")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<int>("MyProperty")
+                    b.Property<int>("Status")
                         .HasColumnType("int");
 
                     b.Property<string>("Title")

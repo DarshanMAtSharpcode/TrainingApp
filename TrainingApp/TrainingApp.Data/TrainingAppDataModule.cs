@@ -11,7 +11,9 @@ namespace TrainingApp.Data
         public static void ConfigureDataModule(this IServiceCollection service, IConfiguration configuration)
         {
             service.ConfigureDatabase(configuration);
-            service.AddScoped<IUserRepository, UserRepository>();
+            service
+                .AddScoped<IUserRepository, UserRepository>()
+                .AddScoped<IActivityRepository, ActivityRepository>();
         }
     }
 }

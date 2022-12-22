@@ -11,7 +11,10 @@ namespace TrainingApp.Business
         public static void ConfigureBusinessModule(this IServiceCollection services, IConfiguration configuration)
         {
             services.ConfigureDataModule(configuration);
-            services.AddScoped<IUserService, UserService>();
+            services
+                .AddScoped<IUserService, UserService>()
+                .AddScoped<IActivityService, ActivityService>()
+                ;
         }
     }
 }
